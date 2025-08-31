@@ -35,7 +35,7 @@ Laporan ini mendokumentasikan proses belajar mengetik (typewriting): aplikasi ya
 ---
 
 ## Bukti (Screenshot WPM)
-
+[](wpm.png)
 
 ---
 
