@@ -2,6 +2,7 @@
 
 Tanggal: 2025-08-31  
 Nama: Muhammad Adi Anugerah Arrahman
+NRP: 5025241118
 Tugas 1: Belajar Typewriting
 
 ## Deskripsi Singkat
@@ -11,6 +12,7 @@ Laporan ini mendokumentasikan proses belajar mengetik (typewriting): aplikasi ya
 
 ## Alat / Aplikasi yang Digunakan
 - Edclub (https://www.edclub.com) — bagus untuk pemula belajar 10 jari
+- Monkeytype (https://www.monkeytype.com) - website bagus untuk mengetes WPM
 
 ---
 
@@ -40,13 +42,11 @@ Laporan ini mendokumentasikan proses belajar mengetik (typewriting): aplikasi ya
 
 ---
 
-## Template Catatan Perkembangan (Isi setiap sesi)
+## Laporan Catatan Perkembangan
 Tanggal | Durasi | Aplikasi | Jari yang dipakai | WPM (raw) | Akurasi (%) | Catatan
 --- | ---: | --- | --- | ---: | ---: | ---
-2025-08-31 | 20 menit | TypingClub | 10 jari (touch) | 28 WPM | 92% | Fokus pada home row, masih sering salah huruf 'e'
-2025-09-02 | 20 menit | Keybr | 10 jari | 32 WPM | 90% | Perbaikan di pattern "th" dan "er"
-
-(Gunakan baris tambahan untuk tiap sesi)
+2025-08-29 | 15 menit | edclub | 10 jari (touch) | 42 WPM | 92% | Masih fokus pada home row
+2025-08-31 | 5 menit | monkeytype | 6 jari | 75 WPM | 96% | Latihan kecepatan mengetik  
 
 ---
 
